@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o  -o untitled -Wl,-rpath,/home/saji/Qt5.10.0/5.10.0/gcc_64/lib /home/saji/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Charts.so.5.10.0 /home/saji/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Widgets.so.5.10.0 /home/saji/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Gui.so.5.10.0 /home/saji/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Core.so.5.10.0 
